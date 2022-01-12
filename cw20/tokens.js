@@ -939,11 +939,11 @@ module.exports = {
       token: "terra1ykagvyzdmj3jcxkhavy7l84qs66haf7akqfrkc",
       icon: "https://loop.markets/token/logo3.png"
     },
-    terra1juwtwk5qymhz7s3hn0vx6tkqst54ud6wfjknvp: {
+    terra1szee0j4m8c75etfs9le9tepa4mc80t3vpf72ls: {
       protocol: "StarTerra",
       symbol: "STT",
       name: "StarTerra Token",
-      token: "terra1juwtwk5qymhz7s3hn0vx6tkqst54ud6wfjknvp",
+      token: "terra1szee0j4m8c75etfs9le9tepa4mc80t3vpf72ls",
       icon: "https://starterra.io/assets/100x100_starterra.png"
     },
     terra1a8hskrwnccq0v7gq3n24nraaqt7yevzy005uf5: {
